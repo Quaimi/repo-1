@@ -32,3 +32,18 @@ Author: Marcus Zhou
 SileoDepiction: https://thestrugglingdoge.github.io/repo/sileodepictions/com.marcuszhou.NineAnimator/depiction.json
 Depiction: https://thestrugglingdoge.github.io/repo/depictions/?p=com.marcuszhou.NineAnimator
 Icon: https://raw.githubusercontent.com/thestrugglingdoge/repo/gh-pages/assets/TweakIcons/nineanimpic.jpg
+
+Package: com.creaturecoding.shuffle
+Version: 0.8.0b
+Section: Mutlimedia
+Maintainer: StrugglingDoge
+Depends: mobilesubstrate, com.creaturecoding.libcspreferences
+Architecture: iphoneos-arm
+Filename: ./debs/com.creaturecoding.shuffle.deb
+Size: 99002536
+MD5sum: 1D1C28D18A3073CCAA3014B235944EBF
+SHA1: 1D1C28D18A3073CCAA3014B235944EBF
+SHA256: BBEA0D69707D96D51559D8A49937B097E91AF6292D4EB2912AEBC55F69DA7D8F
+Description: CreatureSurvive
+Name: shuffle
+Author: CreatureSurvive
